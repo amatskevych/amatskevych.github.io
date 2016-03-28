@@ -1,2 +1,2 @@
 # amatskevych.github.io
-##This is my fiert page on github
+##This is my first page on github
